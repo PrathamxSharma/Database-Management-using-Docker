@@ -54,7 +54,7 @@ Run the Tests:
 docker-compose up test
 This command starts the Docker container for the test service, runs the unit tests, and shows the test results.
 
-## Output Explanation
+## Output 
 Monthly Revenue: Lists total revenue for each month.
 Product Revenue: Shows total revenue for each product.
 Customer Revenue: Displays total revenue for each customer.
