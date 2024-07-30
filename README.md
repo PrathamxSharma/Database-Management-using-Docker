@@ -7,7 +7,8 @@ The analysis includes calculating total revenue per month, per product, and per 
 as well as identifying the top 10 customers by revenue.
 
 Project Structure
-.
+
+
 ├── Dockerfile              # Dockerfile for the main application
 ├── Dockerfile.test         # Dockerfile for the test service
 ├── README.md               # Project documentation
