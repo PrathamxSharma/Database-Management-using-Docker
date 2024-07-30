@@ -2,7 +2,9 @@ Orders Analysis Application
 
 
 Project Overview
-This project is designed to analyze customer order data using Python and Docker. The analysis includes calculating total revenue per month, per product, and per customer, as well as identifying the top 10 customers by revenue.
+This project is designed to analyze customer order data using Python and Docker. 
+The analysis includes calculating total revenue per month, per product, and per customer,
+as well as identifying the top 10 customers by revenue.
 
 Project Structure
 .
